@@ -106,4 +106,7 @@
 data中为数据内容
 + seed_chatgpt.csv：种子问题集及ChatGPT的回答
 + promblems：生成的问题集
-+ answers: 生成的答案集（生成中）
++ answers: 生成的答案集
+
+## 商业用途
+根据OpenAI的要求，似乎对生成内容有一些商业上的限制。
