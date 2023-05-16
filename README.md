@@ -110,3 +110,26 @@ data中为数据内容
 
 ## 商业用途
 根据OpenAI的要求，似乎对生成内容有一些商业上的限制。
+
+## 其他中文指令微调数据集
+1. Belle  
+Belle提供了一些基于ChatGPT生成的指令微调数据集  
+https://github.com/LianjiaTech/BELLE/tree/main/data
+2. GPT-4-LLM  
+包含由GPT4生成的中英文指令微调数据  
+https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM
+3. ShareGPT  
+由ShareGPT上分享的ChatGPT真实对话  
+https://huggingface.co/datasets/philschmid/sharegpt-raw
+4. HC3-chinese  
+搜集的社区问答，以及人工和ChatGPT的回答  
+https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese
+5. InstructionWild  
+网上搜集的问题，并由ChatGPT回答  
+https://github.com/XueFuzhao/InstructionWild
+6. COIG  
+人工构建的指令数据  
+https://huggingface.co/datasets/BAAI/COIG
+7. FireFly  
+人工构建的指令数据  
+https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M
